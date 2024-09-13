@@ -5,8 +5,8 @@ public class DiscordController : MonoBehaviour
 {
     public long applicationID;
     [Space]
-    public string details = "Audi R8 ile hız yapıyor!";
-    public string state = "Sorun olursa iletişim: dincertekin#0006";
+    public string details = "Driving an Audi R8!";
+    public string state = "Download it now:";
     [Space]
     public string largeImage = "icon";
     public string largeText = "R8DrivingSim";
